@@ -119,7 +119,7 @@ npm start
 
 Drashy Sesodia  
 📧 Email: drashysesodia110053@gmail.com  
-🔗 GitHub: [your-github](https://github.com/Drew-drashy)
+🔗 GitHub: [Drew-drashy](https://github.com/Drew-drashy)
 Admin Email: admin@rabc.com
 Admin password: admin
 ---
